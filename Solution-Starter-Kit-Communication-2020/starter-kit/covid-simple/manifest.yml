@@ -1,0 +1,6 @@
+applications:
+- name: crisis-covid19-chatbot
+  command: npm start
+  path: .
+  memory: 64M
+  instances: 1
